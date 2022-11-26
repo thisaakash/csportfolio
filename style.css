@@ -14,8 +14,8 @@ body {
   text-align: center;
 }
 .cover {
-  height:100vh;
-  width:100vw;
+  height:100%;
+  width:100%;
   overflow: hidden;
   background: linear-gradient(to bottom, #1ad6fd, #1d62fc);
   font-size: 100;
