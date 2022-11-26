@@ -14,7 +14,7 @@ body {
   text-align: center;
 }
 .cover {
-  position: absolute;
+  
   top: 0;
   left: 0;
   right: 0;
@@ -23,6 +23,9 @@ body {
   background: linear-gradient(to bottom, #1ad6fd, #1d62fc);
   font-size: 100;
   color: #fff;
+   display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .avatar {
   width: 200px;
